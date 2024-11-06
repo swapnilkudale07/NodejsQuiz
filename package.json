@@ -1,0 +1,20 @@
+{
+    "name": "Quiz-Rest-APIS",
+    "version": "1.0.0",
+    "description": "Dummy APIs for Quiz",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon node index.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "eslint": "^9.14.0",
+        "express": "^4.21.1",
+        "joi": "^17.13.3",
+        "mongodb": "^6.10.0",
+        "mongodb-memory-server": "^10.1.2",
+        "nodemon": "^3.1.7"
+    }
+}
