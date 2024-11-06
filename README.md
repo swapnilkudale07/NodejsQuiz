@@ -4,3 +4,4 @@ Things to do in order to run this project:
 2. make sure `npm` are installed in your system as global packages.
 3. Run `npm i` This will install all the dependencies for this project.
 4. Run `npm start` to run your development server.
+5. Folder `API Curl URLs` in repository contains api curl document.
